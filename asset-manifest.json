@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/transparen_terra/static/css/main.572d5ab8.chunk.css",
+    "main.js": "/transparen_terra/static/js/main.583a3aa5.chunk.js",
+    "main.js.map": "/transparen_terra/static/js/main.583a3aa5.chunk.js.map",
+    "runtime-main.js": "/transparen_terra/static/js/runtime-main.b144bbf6.js",
+    "runtime-main.js.map": "/transparen_terra/static/js/runtime-main.b144bbf6.js.map",
+    "static/js/2.aa58d1fc.chunk.js": "/transparen_terra/static/js/2.aa58d1fc.chunk.js",
+    "static/js/2.aa58d1fc.chunk.js.map": "/transparen_terra/static/js/2.aa58d1fc.chunk.js.map",
+    "static/js/3.37a15e0e.chunk.js": "/transparen_terra/static/js/3.37a15e0e.chunk.js",
+    "static/js/3.37a15e0e.chunk.js.map": "/transparen_terra/static/js/3.37a15e0e.chunk.js.map",
+    "index.html": "/transparen_terra/index.html",
+    "static/css/main.572d5ab8.chunk.css.map": "/transparen_terra/static/css/main.572d5ab8.chunk.css.map",
+    "static/js/2.aa58d1fc.chunk.js.LICENSE.txt": "/transparen_terra/static/js/2.aa58d1fc.chunk.js.LICENSE.txt",
+    "static/media/arrow.ed40b7bb.svg": "/transparen_terra/static/media/arrow.ed40b7bb.svg",
+    "static/media/Selection.module.css": "/transparen_terra/static/media/mark.fa82fd08.svg",
+    "static/media/bg.da3c00b8.png": "/transparen_terra/static/media/bg.da3c00b8.png",
+    "static/media/close_menu.5e728f4c.svg": "/transparen_terra/static/media/close_menu.5e728f4c.svg",
+    "static/media/lang.5cfce72e.svg": "/transparen_terra/static/media/lang.5cfce72e.svg",
+    "static/media/logo_from-768.aa84cc70.svg": "/transparen_terra/static/media/logo_from-768.aa84cc70.svg",
+    "static/media/loupe.a8a17b78.svg": "/transparen_terra/static/media/loupe.a8a17b78.svg",
+    "static/media/menu.09cdbecc.svg": "/transparen_terra/static/media/menu.09cdbecc.svg",
+    "static/media/share_discuss.697e30bf.svg": "/transparen_terra/static/media/share_discuss.697e30bf.svg",
+    "static/media/share_link.1061cfc7.svg": "/transparen_terra/static/media/share_link.1061cfc7.svg",
+    "static/media/sign.2267ffc1.svg": "/transparen_terra/static/media/sign.2267ffc1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b144bbf6.js",
+    "static/js/2.aa58d1fc.chunk.js",
+    "static/css/main.572d5ab8.chunk.css",
+    "static/js/main.583a3aa5.chunk.js"
+  ]
+}
