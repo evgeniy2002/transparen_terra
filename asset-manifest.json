@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/transparen_terra/static/css/main.572d5ab8.chunk.css",
+    "main.css": "/transparen_terra/static/css/main.88e9f681.chunk.css",
     "main.js": "/transparen_terra/static/js/main.583a3aa5.chunk.js",
     "main.js.map": "/transparen_terra/static/js/main.583a3aa5.chunk.js.map",
     "runtime-main.js": "/transparen_terra/static/js/runtime-main.b144bbf6.js",
@@ -10,7 +10,7 @@
     "static/js/3.37a15e0e.chunk.js": "/transparen_terra/static/js/3.37a15e0e.chunk.js",
     "static/js/3.37a15e0e.chunk.js.map": "/transparen_terra/static/js/3.37a15e0e.chunk.js.map",
     "index.html": "/transparen_terra/index.html",
-    "static/css/main.572d5ab8.chunk.css.map": "/transparen_terra/static/css/main.572d5ab8.chunk.css.map",
+    "static/css/main.88e9f681.chunk.css.map": "/transparen_terra/static/css/main.88e9f681.chunk.css.map",
     "static/js/2.aa58d1fc.chunk.js.LICENSE.txt": "/transparen_terra/static/js/2.aa58d1fc.chunk.js.LICENSE.txt",
     "static/media/arrow.ed40b7bb.svg": "/transparen_terra/static/media/arrow.ed40b7bb.svg",
     "static/media/Selection.module.css": "/transparen_terra/static/media/mark.fa82fd08.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.b144bbf6.js",
     "static/js/2.aa58d1fc.chunk.js",
-    "static/css/main.572d5ab8.chunk.css",
+    "static/css/main.88e9f681.chunk.css",
     "static/js/main.583a3aa5.chunk.js"
   ]
 }
